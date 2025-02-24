@@ -22,7 +22,7 @@
 - (TODO) binary search
 - (TODO) DP/ILP
 
-### languages
+### languages & compilers
 - W. Backus, R. J. Beeber, S. Best, R. Goldberg, L. M. Haibt, H. L. Herrick, R. A. Nelson, D. Sayre, P. B. Sheridan, H. Stern, I. Ziller, R. A. Hughes, and R. Nutt. "The FORTRAN Automatic Coding System" (1959)
 - Peter J. Landin. "The Next 700 Programming Languages" (1966)
 - (TODO) C
@@ -31,6 +31,7 @@
 - (TODO) JavaScript
 - (TODO) Coq
 - (TODO) Rust
+- (TODO) CUDA and Triton
 
 ### formalisms / verification
 - A. R. Hoare. "An Axiomatic Basis for Computer Programming" (1969)
