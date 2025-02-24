@@ -4,6 +4,7 @@
 - (TODO) for fun
 
 ## Listing
+- Any PR/MR/issues are appreciated :>
 
 ### birth of the computer
 - David Hilbert. "Mathematical Problems" (1900)
@@ -22,6 +23,11 @@
 ### languages
 - W. Backus, R. J. Beeber, S. Best, R. Goldberg, L. M. Haibt, H. L. Herrick, R. A. Nelson, D. Sayre, P. B. Sheridan, H. Stern, I. Ziller, R. A. Hughes, and R. Nutt. "The FORTRAN Automatic Coding System" (1959)
 - Peter J. Landin. "The Next 700 Programming Languages" (1966)
+- (TODO) C
+- (TODO) Java
+- (TODO) Python
+- (TODO) JavaScript
+- (TODO) Rust
 
 ### formalisms
 - A. R. Hoare. "An Axiomatic Basis for Computer Programming" (1969)
