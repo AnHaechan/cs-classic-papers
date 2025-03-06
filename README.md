@@ -23,24 +23,19 @@
 - **SAT, the NP-complete problem found**: Sameul A. Cook. “The Complexity of Theorem-Proving Procedures” (1971)
 - **Reducing many problems into 3SAT**: Richard M. Karp. "Reducibility Among Combinatorial Problems" (1972)
 
-### languages (TODO: merge with "formalism / verification"?)
+### languages & compilers
 - (TODO: early assembly languages)
-- **FORTARN, the first high-level language**: John W. Backus et al. "The FORTRAN Automatic Coding System" (1959)
-- (TODO) C
-- **ML: functional programming** (TODO) ML
-- **Java: object-oriented / garbage collection** (TODO) Java
-- (TODO) C++
-- **Javascript: Web / programmers' nightmare?** (TODO) Javascript
-- **Python: dynamic, lightweight** (TODO) Python
-- (TODO) "CUDA: SCALABLE PARALLEL PROGRAMMING FOR HIGH-PERFORMANCE SCIENTIFIC COMPUTING" (2008)
-- (TODO) Rust
-
-### formalism / verification
-- **syntax**: Noam Chomsky. "Three models for the description of language" (1956)
+- **syntax, abstract grammar**: Noam Chomsky. "Three models for the description of language" (1956)
 - **semantics**: A. R. Hoare. "An Axiomatic Basis for Computer Programming" (1969)
 - **defining a programming language**: Peter J. Landin. "The Next 700 Programming Languages" (1966)
+- **FORTARN, the first high-level language**: John W. Backus et al. "The FORTRAN Automatic Coding System" (1959)
+- **type system, foundation for functional languages**: Robin Milner. "A Theory of Type Polymorphism in Programming" (1977)
+-  **Java: object-oriented / garbage collection** (TODO)
+- **parsing**: (TODO)
+- **IR & optimization**: (TODO)
+
+### verification
 - **abstract interpretation, static analysis**: Patric Cousot. "Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints" (1977)
-- **type theory**: Robin Milner. "A Theory of Type Polymorphism in Programming" (1977) 
 - **TCB**: Ken Thompson. "Reflections on Trusting Trust" (1984)
 - **machine-checked proof**: (TODO: Coq?)
 - **separation logic**: John C. Raynolds. "Separation logic: a logic for shared mutable data structures" (2002)
