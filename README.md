@@ -14,7 +14,7 @@
 - **Lambda calculus**: Alonzo Church. "The Calculi of Lambda-Conversion" (1941)
 - **Boolean logic**: George Boole. "An Investigation of the Laws of Thought" (1853)
 - **Switch and boolean logic**: Claude Shanon. "A Symbolic Analysis of Relay And Switching Circuits" (1938)
-- **von Neumann architecture**: [John Von Neumann. "First Draft of a Report on the EDVAC" (1945)](https://ieeexplore.ieee.org/abstract/document/238389)
+- (TODO: implementing an electrical switch: vaccum tube -> semiconductor, integrated chip?)
 
 ### algorithms
 - **Binary search**: Have been existing for a long time (src: https://en.wikipedia.org/wiki/Binary_search#History)
