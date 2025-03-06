@@ -24,7 +24,7 @@
 - **Reducing many problems into 3SAT**: Richard M. Karp. "Reducibility Among Combinatorial Problems" (1972)
 
 ### languages & compilers
-- (TODO: early assembly languages)
+- **defining an ISA** (TODO)
 - **syntax, abstract grammar**: Noam Chomsky. "Three models for the description of language" (1956)
 - **semantics**: A. R. Hoare. "An Axiomatic Basis for Computer Programming" (1969)
 - **defining a programming language**: Peter J. Landin. "The Next 700 Programming Languages" (1966)
