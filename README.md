@@ -32,6 +32,8 @@
 - (TODO) **static single-assignment form**
 - **LLVM IR**: Chris Lattner et al. "LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation" (2003)
 - (TODO) **garbage collection**:
+- **loop transformation**:
+- **vectorization**:
 
 ### verification
 - **abstract interpretation**: Patric Cousot. "Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints" (1977)
@@ -130,4 +132,4 @@
 - https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/
 - [Why Machines Learn: The Elegant Math Behind Modern AI, Anil Ananthaswamy](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749)
 
--
+
